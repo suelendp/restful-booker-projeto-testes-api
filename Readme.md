@@ -1,16 +1,23 @@
 # 💻 Projeto de testes API
 ## Realizado durante o Bootcamp da GFT em parceria com a DIO - GFT Quality Assurance Para Mulheres
 
+<br>
+<br>
+
 ## 📝 Objetivo do projeto
 - **Neste projeto exploraremos o framework RestAssured + JUnit e
   a geração de reports com o Allure Framework, além disso
   também usaremos JsonServer para simular uma API.**
+
+<br>
 
 ### 📌 Pré-requisitos
 - **Fundamentos de qualidade de software**
 - **Fundamento de programação -> JAVA**
 - **Fundamentos de automação**
 - **Testes de API**
+
+<br>
 
 ### 📌 Apresentando a API de base
 - **API a ser usada como base :
@@ -21,6 +28,7 @@
   * Intellij( mas pode ser o de sua preferência)
   * Allure Framework
 
+<br>
 
 ### 📝 Descrição do Desafio:
 ### 📌 Conhecendo a API - Obrigatório
@@ -35,6 +43,8 @@
 
 
     ✅ A Collection que foi criada no Postman foi adicionada no repositório no diretório: /docs/postman-collections
+
+<br>
 
 ### 📌 Automatizando com Rest Assured  - Obrigatório
 - **TO DO:**
@@ -55,6 +65,8 @@
         🎯 PATCH - Booking - PartialUpdateBooking
         🎯 DELETE - Booking - DeleteBooking
         🎯 GET - Ping - HealthCheck
+
+<br>
 
 
 ### 🔧 Tecnologias e Ferramentas utilizadas

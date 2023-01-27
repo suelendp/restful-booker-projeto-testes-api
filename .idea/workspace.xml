@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec1b3007-032e-4c59-b63d-8f4b62ffc6f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/allure-reports/Graficos - Projeto de testes API.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/allure-reports/Packages - Projeto de testes API.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/allure-reports/Projeto de testes API.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/postman-collections/Restful-Booker-API.postman_collection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/UserToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BookingTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/createBookingRequestSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/createBookingResponseSchema.json" afterDir="false" />
+    <list default="true" id="ec1b3007-032e-4c59-b63d-8f4b62ffc6f0" name="Changes" comment="Ajustes finais nos Testes. E inclusão de Docs Alure Reports e Collection do Postman">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +128,19 @@
       <option name="presentableId" value="Default" />
       <updated>1674741467202</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ajustes finais nos Testes. E inclusão de Docs Alure Reports e Collection do Postman">
+      <created>1674843761168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674843761168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajustes finais nos Testes. E inclusão de Docs Alure Reports e Collection do Postman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes finais nos Testes. E inclusão de Docs Alure Reports e Collection do Postman" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
